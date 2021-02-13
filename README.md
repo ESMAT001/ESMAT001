@@ -1,23 +1,3 @@
-## Hi, I'm Esmatullah Niazi 👋
-
-
-### I'm a software engineer
-<table width="100%">
-<tr>
-   <td>
-      <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ESMAT001&show_icons=true&hide_border=true&theme=tokyonight&bg_color=00000000" />
-   </td>
-   <td>
-      <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ESMAT001&show_icons=true&hide_border=true&layout=compact&langs_count=8&theme=tokyonight&bg_color=00000000"/>
-   </td>
-   
-</tr>
-<table>
-[![Visits Badge](https://badges.pufler.dev/visits/puf17640/git-badges)](https://badges.pufler.dev)
-
-
-
-
 
 
 
@@ -29,11 +9,11 @@
 </div>
 
 <p align='center'>
-   <a href="https://www.linkedin.com/in/hemant-j-85518a195/"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/linkedin.png?raw=true"></a>&nbsp;&nbsp;
-<a href="https://twitter.com/8bithemant"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/twitter.png?raw=true"></a>&nbsp;&nbsp;
-<a href="https://dev.to/hemant"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/devto.png?raw=true"></a>&nbsp;&nbsp;
-<a href="https://www.facebook.com/trinnwin"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/spotify.png?raw=true"></a>&nbsp;&nbsp;
- <a href="https://www.coffee.com/hemant"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/coffee.jpg?raw=true"></a>&nbsp;&nbsp;
+<!--    <a href="https://www.linkedin.com/in/hemant-j-85518a195/"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/linkedin.png?raw=true"></a>&nbsp;&nbsp; -->
+<!-- <a href="https://twitter.com/8bithemant"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/twitter.png?raw=true"></a>&nbsp;&nbsp; -->
+<!-- <a href="https://dev.to/hemant"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/devto.png?raw=true"></a>&nbsp;&nbsp; -->
+<!-- <a href="https://www.facebook.com/trinnwin"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/spotify.png?raw=true"></a>&nbsp;&nbsp; -->
+<!--  <a href="https://www.coffee.com/hemant"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/coffee.jpg?raw=true"></a>&nbsp;&nbsp; -->
  </p>
 
 
@@ -43,8 +23,8 @@
 
 
 <p align="center">
-   <a href="https://twitter.com/_hemant_joshi"><img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/_hemant_joshi?style=for-the-badge&color=09f&labelColor=black&logo=twitter&label=@_hemant_joshi"></a>
-   <a href="https://badges.pufler.dev/visits/bornmay/bornmay"> <img alt="hemant joshi github" src="https://badges.pufler.dev/visits/ESMAT001/ESMAT001"> </a>
+<!--    <a href="https://twitter.com/_hemant_joshi"><img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/_hemant_joshi?style=for-the-badge&color=09f&labelColor=black&logo=twitter&label=@_hemant_joshi"></a> -->
+   <a href="https://badges.pufler.dev/visits/ESMAT001/ESMAT001"> <img alt="Esmatullah Niazi github" src="https://badges.pufler.dev/visits/ESMAT001/ESMAT001"> </a>
  </p>
  
  <h5 align="center">
@@ -70,23 +50,25 @@
  
  - All About living life at its best.
  
- - 💬 Connect? lets get social 👉🏼[<img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/social/twitter.svg" >](https://twitter.com/_hemant_joshi)
+ - 💬 Connect? lets get social 👉🏼[<img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/social/twitter.svg" >](https://twitter.com/esmat0100)
  
  <p align="center">
-  <h4> Full Stack | Typescript | Competitive Programming </h4>
+  <h4> Full Stack | JavaScript | Competitive Programming </h4>
    </p>
 
+<table width="100%">
+<tr>
+   <td>
+      <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ESMAT001&show_icons=true&hide_border=true&theme=tokyonight&bg_color=00000000" />
+   </td>
+   <td>
+      <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ESMAT001&show_icons=true&hide_border=true&layout=compact&langs_count=8&theme=tokyonight&bg_color=00000000"/>
+   </td>
+   
+</tr>
+<table>
 
 
-
-<!--  -->
-
-<p align="center" >
-<a href="https://github.com/anuraghazra/github-readme-stats"> 
-    <img  src="https://github-readme-stats.vercel.app/api?username=bornmay&&show_icons=true&theme=radical"/>
-  </a>
-
-</p>
 
 <br />
 
@@ -106,16 +88,7 @@
   <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/tools/visualstudio_code.svg" alt="vscode" style="vertical-align:top; margin:4px">
 </p>
 
-<!--
-### - Blogs 🌱
--->
-<!--
-<p align="center">
-  <a href="https://dev.to/hemant">
-    <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/blogs/devto.svg"> 
-  </a>
-</p>
--->
+
 
 
 
