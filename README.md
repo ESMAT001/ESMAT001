@@ -33,7 +33,7 @@
  
  
 <br />
-<img align="right" height="270px" width="450px" alt="GIF" src="https://media.giphy.com/media/3FjEPbKqEPhPpmC8uY/giphy.gif" />
+<img align="right" height="270px" width="450px" alt="GIF" src="https://i.pinimg.com/originals/66/83/3e/66833e07d6fb9eb5d724e47d0c814285.gif" />
 <p align="center">
   <h3> I'm 19 years old Self-taught Full-Stack developer from Afghanistan.</h3>
 </p>
