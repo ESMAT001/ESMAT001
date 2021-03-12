@@ -98,7 +98,7 @@
 <br />
 
 <p align="center">
-   <img src="https://media.giphy.com/media/f9XgHHnPnDjOF1hWpl/giphy.gif" />
+   <img src="https://miro.medium.com/max/2112/1*YQpiTX2X6WbnOLs78NMXKg.gif" />
    </p>
    
    
