@@ -33,10 +33,11 @@
  
  
 <br />
-<img align="right"  width="450px" alt="GIF" src="https://i.pinimg.com/originals/e1/f3/41/e1f3413bf5036045713341394f617225.gif" />
+
+<img align='right'  width="50%" alt="GIF" src="https://i.pinimg.com/originals/e1/f3/41/e1f3413bf5036045713341394f617225.gif" />
 <p align="center">
   <h3> I'm 19 years old Self-taught Full-Stack developer from Afghanistan.</h3>
-</p>
+
 
  - 🥀 Learning django & React Native
  
@@ -51,7 +52,8 @@
  - All About living life at its best.
  
  - 💬 Connect? lets get social 👉🏼[<img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/social/twitter.svg" >](https://twitter.com/esmat0100)
- 
+ - </p>
+
  <p align="center">
   <h4> Full Stack | JavaScript | Competitive Programming </h4>
    </p>
