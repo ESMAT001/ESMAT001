@@ -34,7 +34,8 @@
  
 <br />
 
-<img align='right'  width="50%" alt="GIF" src="https://i.pinimg.com/originals/e1/f3/41/e1f3413bf5036045713341394f617225.gif" />
+<!--<img align='right'  width="50%" alt="GIF" src="https://i.pinimg.com/originals/e1/f3/41/e1f3413bf5036045713341394f617225.gif" />-->
+<img align='right' width="50%" alt="my image" src="4068DD12-962A-47F3-8615-A7C92C5EE94E.jpeg"  />
 <p align="center">
   <h3> I'm 19 years old Self-taught Full-Stack developer from Afghanistan.</h3>
 
