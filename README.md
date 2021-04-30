@@ -20,11 +20,12 @@
 <div align="center">
 <h3><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  Esmatullah Niazi | 💻 Full Stack Developer |  AFG <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h3>
 </div>
-
-
 <p align="center">
-<!--    <a href="https://twitter.com/_hedssi"><img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/_hemant_joshi?style=for-the-badge&color=09f&labelColor=black&logo=twitter&label=@_hemant_joshi"></a> -->
-   <a href="https://badges.pufler.dev/visits/ESMAT001/ESMAT001"> <img alt="Esmatullah Niazi github" src="https://badges.pufler.dev/visits/ESMAT001/ESMAT001"> </a>
+<a href="https://badges.pufler.dev/visits/ESMAT001/ESMAT001"> <img alt="Esmatullah Niazi github" src="https://badges.pufler.dev/visits/ESMAT001/ESMAT001"> </a>
+    </p>
+<p align="center">
+       <a href="https://www.facebook.com/esmat001/" target="blank"> <img alt="Esmatullah`s facebook account" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"> </a>
+    <a href="https://www.instagram.com/Im_es_n/" target="blank"> <img alt="Esmatullah`s instagrams account" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"> </a>
  </p>
  
  <h5 align="center">
