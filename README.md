@@ -44,7 +44,7 @@
 <!-- <img align='right' width="50%" alt="my image" src="4068DD12-962A-47F3-8615-A7C92C5EE94E.jpeg"  /> -->
 <img align='right' width="50%" alt="my image" src="3DE91B6A-2E25-425A-995F-4D99FDF6C0E2.jpeg"  />
 <p align="center">
-  <h3> I'm 19 years old Self-taught Full-Stack developer from Afghanistan.</h3>
+  <h3> I'm 20 years old Self-taught Full-Stack developer from Afghanistan.</h3>
 
 
  - 🥀 Learning django & React Native
