@@ -1,3 +1,4 @@
+
 name: Metrics
 on:
   # Schedule updates (each hour)
@@ -14,10 +15,12 @@ jobs:
         uses: lowlighter/metrics@latest
         with:
           user: ESMAT001
-          token: ${{ secrets.LOWLIGHTER_METRICS }}
+          token: ${{ secrets.METRICS_TOKEN }}
           plugin_isocalendar: yes
           plugin_isocalendar_duration: full-year
           plugin_reactions: yes
+          plugin_stars: yes
+          plugin_stars_limit: 4 # Limit to 4 entries
           plugin_stargazers: yes
           plugin_activity: yes
           plugin_activity_filter: push, issue, pr, review, comment, star
