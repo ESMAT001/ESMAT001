@@ -28,7 +28,7 @@
     <a href="https://www.instagram.com/Im_es_n/"  target="blank"> <img alt="Esmatullah`s instagrams account" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"> </a>
  </p>
  <p align="center">
-    life Covid-19 virus dashboard 
+    live Covid-19 virus dashboard 
  <a  href="https://cov19-tracker.web.app" target="blank">
   'https://cov19-tracker.web.app'
   </a>
