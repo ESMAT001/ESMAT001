@@ -51,7 +51,9 @@
  
  - <i>with Javascript, python, React and 69 others.</i>
  
- - waiting for the next CICADA 3301 puzzle <img align='left' width="50" alt="my image" src="3DE91B6A-2E25-425A-995F-4D99FDF6C0E2.jpeg"  />
+ - waiting for the next CICADA 3301 puzzle 😋 
+ 
+     <img align='middle' width="20%" alt="cicada 3301 logo" src="artworks-000749624944-17pxre-t500x500.jpg"  />
 
  - 🔭 SpaceX FanBoi, die for space😼
 
