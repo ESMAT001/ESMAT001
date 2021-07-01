@@ -47,10 +47,12 @@
   <h3> I'm 20 years old Self-taught Full-Stack developer from Afghanistan.</h3>
 
 
- - 🥀 Learning django & React Native
+ - 🥀 Learning algorithms analysis and cryptography
  
- - <i>with Javascript, Typescript, React and 69 others.</i>
-   
+ - <i>with Javascript, python, React and 69 others.</i>
+ 
+ - waiting for the next CICADA 3301 puzzle <img align='left' width="50" alt="my image" src="3DE91B6A-2E25-425A-995F-4D99FDF6C0E2.jpeg"  />
+
  - 🔭 SpaceX FanBoi, die for space😼
 
  - 🛸 Into High Energy Physics and Astrophysics, i love shotting stars too.
