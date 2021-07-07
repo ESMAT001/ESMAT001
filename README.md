@@ -70,10 +70,11 @@
  - </p>
 
  <p align="center">
-  <h4> Full Stack | JavaScript | Competitive Programming </h4>
+  <h4 align="center"> Full Stack | JavaScript | Competitive Programming </h4>
    </p>
-
-<table width="100%">
+   
+<!-- <p align='center'><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=ESMAT001&theme=dark&hide_border=true&background=0D1117&ring=EE0000DE&fire=DD5C21&currStreakLabel=DDDDDD" /></p> -->
+<table width="100%" align="center">
 <tr>
    <td>
       <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ESMAT001&show_icons=true&hide_border=true&theme=tokyonight&bg_color=00000000" />
