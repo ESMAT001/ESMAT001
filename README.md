@@ -33,7 +33,7 @@
  <p align="center">
     live Covid-19 virus dashboard 
  <a  href="https://cov19-tracker.web.app" target="blank">
-  'https://cov19-tracker.web.app'
+  https://cov19-tracker.web.app
   </a>
   </p>
  <h5 align="center">
