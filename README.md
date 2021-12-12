@@ -36,6 +36,12 @@
   https://cov19-tracker.web.app
   </a>
   </p>
+   <p align="center">
+    Watch Your favorite Movies Online 
+ <a  href="https://movieera.vercel.app/" target="blank">
+  https://movieera.vercel.app
+  </a>
+  </p>
  <h5 align="center">
    <i>⚡️I don’t trust people who don’t write SQL queries in uppercase⚡️</i>
   </h5>
