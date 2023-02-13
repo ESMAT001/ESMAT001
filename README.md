@@ -2,7 +2,7 @@
 
 
 <div align="center">
-   <h1>Hi there, I'm <a href="https://www.instagram.com/Im_es_n/">Esmatullah Niazi</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1>
+   <h1>Hi there, I'm <a href="https://esmatullah.com/">Esmatullah Niazi</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1>
    
    
 
