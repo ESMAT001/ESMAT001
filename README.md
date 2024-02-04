@@ -3,8 +3,6 @@
 
 <div align="center">
    <h1>Hi there, I'm <a href="https://esmatullah.com/">Esmatullah Niazi</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1>
-   
-   
 
 </div>
 
@@ -18,62 +16,9 @@
 
 
 <div align="center">
-<h3><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  Esmatullah Niazi | 💻 Full Stack Developer | 🇦🇫 AFG <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h3>
+<h3>  Esmatullah Niazi | 💻 Full Stack Developer | DE </h3>
 </div>
-<p align="center">
-<!--      ![visitors](https://visitor-badge.glitch.me/badge?page_id=ESMAT001) -->
-<!-- <a href="https://badges.pufler.dev/visits/ESMAT001/ESMAT001">  -->
-   <img alt="Esmatullah Niazi github" src="https://visitor-badge.glitch.me/badge?page_id=ESMAT001">
-<!--    </a> -->
-    </p>
-<p align="center">
-       <a href="https://www.facebook.com/esmat001/" target="blank"> <img alt="Esmatullah`s facebook account" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"> </a>
-    <a href="https://www.instagram.com/Im_es_n/"  target="blank"> <img alt="Esmatullah`s instagrams account" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"> </a>
- </p>
- <p align="center">
-    live Covid-19 virus dashboard 
- <a  href="https://cov19-tracker.web.app" target="blank">
-  https://cov19-tracker.web.app
-  </a>
-  </p>
-   <p align="center">
-    Watch Your favorite Movies Online 
- <a  href="https://movieera.vercel.app/" target="blank">
-  https://movieera.vercel.app
-  </a>
-  </p>
- <h5 align="center">
-   <i>⚡️I don’t trust people who don’t write SQL queries in uppercase⚡️</i>
-  </h5>
- 
- 
-<br />
 
-<!--<img align='right'  width="50%" alt="GIF" src="https://i.pinimg.com/originals/e1/f3/41/e1f3413bf5036045713341394f617225.gif" />-->
-<!-- <img align='right' width="50%" alt="my image" src="4068DD12-962A-47F3-8615-A7C92C5EE94E.jpeg"  /> -->
-<img align='right' width="50%" alt="my image" src="3DE91B6A-2E25-425A-995F-4D99FDF6C0E2.jpeg"  />
-<p align="center">
-  <h3> I'm 20 years old Self-taught Full-Stack developer from Afghanistan.</h3>
-
-
- - 🥀 Learning algorithms analysis and cryptography
- 
- - <i>with Javascript, python, React and 69 others.</i>
- 
- - waiting for the next Cicada 3301 puzzle 😋 
- 
-     <img align='center' width="25%" alt="cicada 3301 logo" src="artworks-000749624944-17pxre-t500x500.jpg"  />
-
- - 🔭 SpaceX FanBoi, die for space😼
-
- - 🛸 Into High Energy Physics and Astrophysics, i love shotting stars too.
- 
- - I do fullstack and much of every thing :heart:
- 
- - All About living life at its best.
- 
- - 💬 Connect? lets get social 👉🏼[<img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/social/twitter.svg" >](https://twitter.com/esmat0100)
- - </p>
 
  <p align="center">
   <h4 align="center"> Full Stack | JavaScript | Competitive Programming </h4>
